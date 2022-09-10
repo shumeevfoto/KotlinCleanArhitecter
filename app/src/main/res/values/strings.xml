@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KotlinCleanArhitecter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="shoList">
+        <item>Салфетки</item>
+        <item>Бумага</item>
+        <item>Салфетки</item>
+        <item>Тоды</item>
+        <item>Салфетки</item>
+        <item>Салфетки</item>
+        <item>Салфетки</item>
+        <item>Салфетки</item>
+    </string-array>
+</resources>
